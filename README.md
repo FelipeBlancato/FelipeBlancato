@@ -1,8 +1,8 @@
-# 🤖 Sobre Mim
+# Sobre Mim
 
 ### **`Estudante de Desenvolvimento e Cibersegurança`**
 
-Me chamo Felipe Blancato Siviero, tenho 21 anos e moro em São Paulo, desde sempre completamente aficcionado por tecnologia. Atualmente curso e foco meus estudos em Análise e desenvolvimento de Sistemas mas minhas paixões também incluem Hardware, Infraestrutura, Redes e Cibersegurança!
+Me chamo Felipe Blancato Siviero, tenho 21 anos e moro em São Paulo, desde sempre completamente aficionado por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas, mas minhas paixões também incluem hardware, infraestrutura, redes e cibersegurança!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/felipe-blancato-85407b234">
@@ -57,4 +57,12 @@ Me chamo Felipe Blancato Siviero, tenho 21 anos e moro em São Paulo, desde semp
     width="45px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Sql" 
+    title="SQL"
+    width="45px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
