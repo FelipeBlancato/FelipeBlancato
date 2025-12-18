@@ -52,17 +52,33 @@ Me chamo Felipe Blancato Siviero, tenho 21 anos e moro em São Paulo, desde semp
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Sql" 
+    alt="sql" 
     title="SQL"
     width="45px" 
     style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="git" 
+    title="Git"
+    width="45px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left" 
+    alt="mint" 
+    title="Linux Mint"
+    width="45px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg"
+/>
+<img 
+    align="left" 
+    alt="proxmox" 
+    title="Proxmox"
+    width="45px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-plain-wordmark.svg"
 />
