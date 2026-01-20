@@ -1,8 +1,10 @@
 # Sobre Mim
 
-### **`Estudante de Desenvolvimento e Cibersegurança`**
+### **`Suporte de T.I. | Em transição para Cibersegurança | Redes, Linux e Segurança`**
 
-Me chamo Felipe Blancato Siviero, tenho 21 anos e moro em São Paulo, desde sempre completamente aficionado por tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas, mas minhas paixões também incluem hardware, infraestrutura, redes e cibersegurança!
+Sou profissional de TI com experiência em Suporte e Governança de Segurança da Informação, em transição para a área de Cibersegurança. Possuo conhecimentos em Redes, Sistemas Linux, Banco de Dados, SQL e Python aplicados a análise de dados e automação.!
+
+Atualmente me aprimoro em administração de servidores e segurança ofensiva (Red Team), com foco em identificação de vulnerabilidades e fortalecimento de ambientes corporativos. Tenho perfil proativo, curioso e orientado a aprendizado contínuo, buscando evoluir tecnicamente e enfrentar novos desafios em Segurança da Informação.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/felipe-blancato-85407b234">
