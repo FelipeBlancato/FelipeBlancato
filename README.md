@@ -1,6 +1,6 @@
 # Sobre Mim
 
-### **`Suporte de T.I. | Em transição para Cibersegurança | Redes, Linux e Segurança`**
+### **Em transição para Cibersegurança**
 
 Sou profissional de TI com experiência em Suporte e Governança de Segurança da Informação, em transição para a área de Cibersegurança. Possuo conhecimentos em Redes, Sistemas Linux, Banco de Dados, SQL e Python aplicados a análise de dados e automação.
 
